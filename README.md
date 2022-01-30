@@ -9,6 +9,9 @@ I am a graduate student at Carnegie Mellon University pursuing my master’s in 
 Last semester, I worked in the Machine Learning Department at CMU for an AI testing project. From my experience, I am exploring opportunities for AI application in areas including but not limited to modeling social behaviors and economic development. With a broad skillset covering important facets in data analytics and problem-solving, I am looking for exciting opportunities to strengthen my analytical and problem-solving skills.
 
 # What I hope to learn
-I want to learn how to tell intriguing stories to my clients at work. Specifically, 
+I want to learn how to tell intriguing data stories to my clients at work. Specifically, how to use tools to draw data on charts, use proper language to convey the meaning of the data, and do research and find significant data evidence to support my arguments. I want to be a project manager in the future, so that generalization skills and self-critique skills are quite important for me. From this class, I am looking forward to learning various critique methodologies on data visualization to justify my own design decisions and recommendations. 
 
 # Portfolio
+## Assignments
+
+## Projects
