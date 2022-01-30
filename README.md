@@ -12,8 +12,9 @@ Last semester, I worked in the Machine Learning Department at CMU for an AI test
 I want to learn how to tell intriguing data stories to my clients at work. Specifically, how to use tools to draw data on charts, use proper language to convey the meaning of the data, and do research and find significant data evidence to support my arguments. I want to be a project manager in the future, so that generalization skills and self-critique skills are quite important for me. From this class, I am looking forward to learning various critique methodologies on data visualization to justify my own design decisions and recommendations. 
 
 # Portfolio
+## Assignment 2 Part I
 <iframe src="https://data.oecd.org/chart/6Bk6" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Bk6" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
-
+## Assignment 2 Links
 [Assignment_2_visualization](/Assignment_2.md)
 
 ## Projects
