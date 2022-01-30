@@ -1,5 +1,6 @@
-# General Government Debt for Year 2020
+# Part I General Government Debt for Year 2020
 <iframe src="https://data.oecd.org/chart/6BjX" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6BjX" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
-# Government debt-to-GDP ratio on Flourish
+# Part II Government Debt-to-GDP ratio on Flourish
+## Comment: I did not change much from professor's instructions. I choose to show the year on x-axis of all countries' charts. However, I found that the end dot is not connecting to the end point of the line. I suggest that the instruction requires us to provide data visualization from 1995 to 2019, but the data is actually from 1995 to 2020. Thus, there is a disconnection between the line and the end dot. 
 <iframe src='https://flo.uri.sh/visualisation/8563992/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/8563992/?utm_source=embed&utm_campaign=visualisation/8563992' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
