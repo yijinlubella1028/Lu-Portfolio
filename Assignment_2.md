@@ -11,4 +11,6 @@ I select a column chart to show how the Debt-to-GDP ratio changes in different c
 
 In terms of color choice, I greyed columns for years other than 2008 while highlighting 2008 in blue because I would love to convey a clear message that 2008 is a turning point in the financial field. On the other hand, I put a select number on top of the column. By doing so, the number would not overlap while readers could see the amount reading of the column. 
 
+From the third visualization, I found that most countries experience a dramatic increase in the Debt-to-GDP ratio. Moreover, there is no evidence of returning the increasing trend to normal in recent years. Therefore, throwing to the financial forecast of a new storm of crisis because of Covid, the rumor might come true by seeing such high debt to GDP ratio in countries.
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/8564532"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
