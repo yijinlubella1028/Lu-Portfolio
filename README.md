@@ -14,7 +14,6 @@ I want to learn how to tell intriguing data stories to my clients at work. Speci
 # Portfolio
 <iframe src="https://data.oecd.org/chart/6Bk6" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Bk6" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
-## Assignment 2
-https://github.com/yijinlubella1028/Lu-Portfolio/blob/2bf14f7ac3f86960fac5523071aa05a9cae09325/Assignment_2.md
+[Assignment_2_visualization](/Assignment_2.md)
 
 ## Projects
