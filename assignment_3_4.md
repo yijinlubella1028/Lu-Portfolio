@@ -1,1 +1,3 @@
-
+# Assignment 3
+## Data Source Description
+The omicron outbreak brings up many critiques on states’ responsibilities for Covid-19 containment; thus, I am curious about the decision-making process when states decide to re-open in the 2021 fall. To access the data used to create the visualization below, I visited several websites on “Covid-19 States Control”. I found an interesting data visualization from vox.com, which should explain how much progress states have made toward containing the coronavirus and keeping the Covid contained by following five essential criteria instructed by the CDC. The dataset for visualization is from cdc.gov/case-surveillance. Meanwhile, the dataset is uploaded to my GitHub page if you are interested in examining the data yourself. 
