@@ -30,17 +30,14 @@ Though the visualization accompanies the flow of the context (there are several 
 
 ### Question 1 
 #### Describe your overall observations about the data visualization here. What stood out to you? What did you find worked really well? What didn't? What, if anything, would you do differently? 
-
 The data visualization is a United States map. My first impression is on aesthetics, the poor selection of color, and the need for more information on understanding the graph. In terms of information, I found that states colored in blue stood out for me because blue is a cool tone, and only a few blocks (states) are colored in blue. I want to explore why these states are colored in blue. On the other hand, I believe that the title works pretty well. The context in the subject is quite intuitive, which tells the reader the purpose of the visualization. After carefully reading the text, I found that the visualization could be improved on the completeness of information by changing the form of display and readers' engagement by providing more information from the graph.
 
 ### Question 2
 #### Who is the primary audience for this tool? Do you think this visualization is effective for reaching that audience? Why or why not?
-
 The audience behind the visualization should be the public audience curious about how states perform under CDC Covid controls. Since the nature of the article is shared online and it is a commentary post, the visualization should be self-explanatory and easy to understand. 
 
 ### Question 3
 #### Final thoughts: how successful what this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here? What would you change? Provide 1-2 recommendations (color, type of visualization, layout, etc.) *
-
 Overall, I would give this visualization a seven. I think all measures are captured here. I would add more information to the graph, change the color selection, the title and subtitle format, and the type of display, which I intended to change into a segmental bar graph measuring five metrics completed by each state. 
 
 
