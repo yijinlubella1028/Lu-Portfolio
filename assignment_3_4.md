@@ -41,3 +41,14 @@ The audience behind the visualization should be the public audience curious abou
 Overall, I would give this visualization a seven. I think all measures are captured here. I would add more information to the graph, change the color selection, the title and subtitle format, and the type of display, which I intended to change into a segmental bar graph measuring five metrics completed by each state. 
 
 
+
+## Reference 
+Few, S. (n.d.). Data Visualization Effectiveness Profile - Perceptual Edge. Retrieved February 6, 2022, from http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
+
+Berinato, S. (2016). Good charts: The HBR Guide to making smarter, more persuasive data visualizations. Boston (Massachusetts): Harvard Business Review Press.
+
+Lopez, G. (2020, May 28). Just 4 states meet these basic criteria to reopen and stay safe. Retrieved February 06, 2022, from https://www.vox.com/2020/5/28/21270515/coronavirus-covid-reopen-economy-social-distancing-states-map-data
+
+United States covid-19 cases and deaths by State over time. (n.d.). Retrieved February 06, 2022, from https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36
+
+
