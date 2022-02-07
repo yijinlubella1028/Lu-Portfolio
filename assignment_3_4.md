@@ -42,6 +42,7 @@ The audience behind the visualization should be the public audience curious abou
 Overall, I would give this visualization a seven. I think all measures are captured here. I would add more information to the graph, change the color selection, the title and subtitle format, and the type of display, which I intended to change into a segmental bar graph measuring five metrics completed by each state. 
 
 ## Wireframe a Solution
+In the previous critique section, I insisted on understanding the importance of five criteria from states' performances on covid containment and enhancing the readers' engagement by bringing in more information. However, I started to question my decision when I saw my wireframed solution. I doubt whether the audience wants to learn so much information while reading a narrative post online. The first graph should summarize and foreshow the evidence provided in the following context. It should highlight anything significant for catching readers' attention and induce them to keep reading. I have many doubts about my wireframed solution, but it is crafted based on my critique. Thus, I interviewed three of my friends to test out my thoughts and concerns. 
 ![IMG_0076](https://user-images.githubusercontent.com/78045377/152820841-6c4b42e9-92d2-4de8-9ba1-0a36162d20cc.jpg)
 
 
