@@ -6,7 +6,7 @@ and Census Bureau. Source information is in the reference below. Meanwhile, the 
 
 ## Critique the visualization 
 ### 1)Usefulness (Score = 8)
-The audience behind the visualization should be the public audience curious about how states perform under CDC Covid controls. Since the nature of the article is shared online and it is a commentary post, the visualization should be self-explanatory and easy to understand. Indeed, the information from this visualization is useful. It helps readers see the performance level of each state and contrasts with color to compare the performance of all states in the United States.
+The audience behind the visualization should be the public audience curious about how states perform under CDC Covid controls. Since the nature of the article is shared online and it is a narrative discussing the federal instructions, the visualization should be self-explanatory and easy to understand. Indeed, the information from this visualization is useful. It helps readers see the performance level of each state and contrasts with color to compare the performance of all states in the United States.
 
 ### 2) Completeness (Score = 6)
 The visualization could be improved on completeness. The context emphasizes the importance of five basic criteria states should meet before re-opening, but only four states complete four out of five criteria. To my understanding, it is not providing the “intended level of understanding” (Few, 2017). To compromise the context, It would be better if the visualization could draw significance on types of criteria completed by states and compare the completeness of Covid-control among states. 
