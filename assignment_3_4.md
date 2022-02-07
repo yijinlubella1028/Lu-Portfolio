@@ -45,7 +45,8 @@ Overall, I would give this visualization a seven. I think all measures are captu
 In the previous critique section, I insisted on understanding the importance of five criteria from states' performances on covid containment and enhancing the readers' engagement by bringing in more information. However, I started to question my decision when I saw my wireframed solution. I doubt whether the audience wants to learn so much information while reading a narrative post online. The first graph should summarize and foreshow the evidence provided in the following context. It should highlight anything significant for catching readers' attention and induce them to keep reading. I have many doubts about my wireframed solution, but it is crafted based on my critique. Thus, I interviewed my friends to test out my thoughts and concerns. 
 ![IMG_0076](https://user-images.githubusercontent.com/78045377/152820841-6c4b42e9-92d2-4de8-9ba1-0a36162d20cc.jpg)
 
-## Script and Answers
+## Test the Solution
+### Script and Answers
 ### Can you tell me what you think this is? 
 A: I think this graph discusses states' government policy practice for re-opening the economy after Covid containment. I can see none of the states complete all five criteria, while when is this chart drawn?
 
