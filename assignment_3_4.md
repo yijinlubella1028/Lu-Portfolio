@@ -45,6 +45,32 @@ Overall, I would give this visualization a seven. I think all measures are captu
 In the previous critique section, I insisted on understanding the importance of five criteria from states' performances on covid containment and enhancing the readers' engagement by bringing in more information. However, I started to question my decision when I saw my wireframed solution. I doubt whether the audience wants to learn so much information while reading a narrative post online. The first graph should summarize and foreshow the evidence provided in the following context. It should highlight anything significant for catching readers' attention and induce them to keep reading. I have many doubts about my wireframed solution, but it is crafted based on my critique. Thus, I interviewed my friends to test out my thoughts and concerns. 
 ![IMG_0076](https://user-images.githubusercontent.com/78045377/152820841-6c4b42e9-92d2-4de8-9ba1-0a36162d20cc.jpg)
 
+## Script and Answers
+### Can you tell me what you think this is? 
+A: I think this graph discusses states' government policy practice for re-opening the economy after Covid containment. I can see none of the states complete all five criteria, while when is this chart drawn?
+
+B: Wow, it's a big graph. Let me take a look. I assume that this graph talks about re-opening policy and how each state performs? Your graph's main idea is clear, but there is over-whelmed information. You may need to think of highlighting some important information.
+### Can you describe to me what this is telling you?
+A: As I said in the previous question, I think this graph tells me the states' performances of government policy.
+
+B: This chart tries to tell me the progress each state made for re-opening the economy. 
+### Is there anything you find surprising or confusing?
+A: I am an international student, unfamiliar with the state's abbreviation. Can you tell me how Pennsylvania performs in this? Also, it is surprising to see that New Jersey and New York perform well in meeting the criteria for re-opening the economy. I heard that NJ and NY suffered a lot from the Covid-19 outbreak.
+
+B: I understand this is your scratch, but I am confused about your handwriting and what you mean by "significance of goal #1". As I learned from your context description, the following narrative discusses the meaning of each criterion and why they are essential. Do you think you must put them ahead in this "summary" chart (first chart)? Additionally, I am confused with your scale. I know that most states only complete one to two criteria, but from your scale for the y-axis, I am not sure whether you correctly do this.
+### Who do you think is the intended audience for this? 
+A: Anyone can understand this graph. I assume the audience should be the general public who cares about how states meet five criteria for re-opening the economy.
+
+B: Public Audience.
+### Is there anything you would change or do differently?
+A: I think this might be a handwritten thing. I would love to point out your title and subtitle. I can't see them. Also, I would suggest you write as you describe for five goals. The current description on your graph is vague.
+
+B: I can see the meaning of your color, but is there any special meaning for using the blue tone? When you relate the color blue to policy, I can't stop myself thinking about the democratic party.
+### Compared to the original graph, which one looks better to you? 
+A: I like the previous graph. I think there are too many things in your wire-framed version. I know you are trying to incorporate more information in your chart, but this chart is in a narrative, and the purpose of this chart should be helping readers to understand the context. However, the original graph also has flaws. For instance, it is unclear on the level of progress in the legend, and the color is pretty ugly. I would recommend you find one important message and highlight it. This could catch readers' attention and intrigue them to find out in the following text.
+
+B: I like your graph. I see you pay attention to details. It is a pretty informative graph, and I believe it will look better if you use software to finish. However, I wonder whether the bar chart is your best chart selection. I would recommend you use a heat map showing the progress made by states.
+
 
 
 ## Reference 
