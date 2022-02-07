@@ -41,6 +41,9 @@ The audience behind the visualization should be the public audience curious abou
 #### Final thoughts: how successful what this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here? What would you change? Provide 1-2 recommendations (color, type of visualization, layout, etc.) *
 Overall, I would give this visualization a seven. I think all measures are captured here. I would add more information to the graph, change the color selection, the title and subtitle format, and the type of display, which I intended to change into a segmental bar graph measuring five metrics completed by each state. 
 
+## Wireframe a Solution
+![IMG_0076](https://user-images.githubusercontent.com/78045377/152820841-6c4b42e9-92d2-4de8-9ba1-0a36162d20cc.jpg)
+
 
 
 ## Reference 
