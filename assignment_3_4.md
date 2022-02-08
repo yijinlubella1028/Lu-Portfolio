@@ -80,6 +80,7 @@ To summarize the interview, both interviewees talk about handwriting, making it 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8637804"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Reference 
+
 Few, S. (n.d.). Data Visualization Effectiveness Profile - Perceptual Edge. Retrieved February 6, 2022, from http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
 
 Berinato, S. (2016). Good charts: The HBR Guide to making smarter, more persuasive data visualizations. Boston (Massachusetts): Harvard Business Review Press.
