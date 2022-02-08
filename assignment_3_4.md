@@ -79,8 +79,10 @@ To summarize the interview, both interviewees talk about handwriting, making it 
 <div class="flourish-embed flourish-map" data-src="visualisation/8637433"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-chart" data-src="visualisation/8637804"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Reference 
+## Reflection
+The redesigned data visualization incorporates two wanted changes in the critique section: completeness and engagement. The revised chart brings more information on how each state responds to five criteria for re-opening the economy and intrigues readers to think why over 70% of states only comply with 0-2 criteria. Even though my revised chart is done differently from my wire-framed one, it takes the advice from the interview into consideration. It improves on focusing on one important message, catching readers' attention at the first eyesight. In addition, I put the date on my title to specify when the analysis is done. Overall, the revised chart contains two parts. The first part is a map that readers can drag the cursor to see states' performance in terms of how many criteria is complete, and thus its progress toward qualified re-opening. Map also contains a filter that allows readers to see how each state performs for different criteria. The color is purple/blue-based. Darker the color, severer the sit-in, and minor criterion qualified. On the other hand, a pie chart shows states' progress as a whole, resonating with the idea that most states do not do enough to meet the criteria. 
 
+## Reference 
 Few, S. (n.d.). Data Visualization Effectiveness Profile - Perceptual Edge. Retrieved February 6, 2022, from http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
 
 Berinato, S. (2016). Good charts: The HBR Guide to making smarter, more persuasive data visualizations. Boston (Massachusetts): Harvard Business Review Press.
