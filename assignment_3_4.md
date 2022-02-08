@@ -75,6 +75,9 @@ B: I like your graph. I see you pay attention to details. It is a pretty informa
 ### Summary
 To summarize the interview, both interviewees talk about handwriting, making it hard to read the title and subtitle. In addition, I found my wire-framed chart is hard to depict via software. Thus, I need to think about changing the type of my chart. In terms of the context, one of them mentions the unnecessary for putting too much information in the first chart, but emphasizing one crucial message and letting readers think and explore from following text and diagrams. I agree with this point, and thus I decide to use a pie chart emphasizing the progress of meeting criteria states. Specifically, I would love to use percentage to show - how much percent of states meet the 5/5 criterion, how much percent of states meet the 4/5 criterion, and so on. Additionally, by changing the type of the chart, students are no longer confused about the states' abbreviation because they focus on the progress states made as a whole. However, to compensate the information for each state's progress, I will add another heat map on the side, comparing among states. 
 
+## Final Chart
+<div class="flourish-embed flourish-map" data-src="visualisation/8637433"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 ## Reference 
 Few, S. (n.d.). Data Visualization Effectiveness Profile - Perceptual Edge. Retrieved February 6, 2022, from http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
