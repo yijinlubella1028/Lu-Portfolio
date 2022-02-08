@@ -77,6 +77,7 @@ To summarize the interview, both interviewees talk about handwriting, making it 
 
 ## Final Chart
 <div class="flourish-embed flourish-map" data-src="visualisation/8637433"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-map" data-src="visualisation/8637433"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 ## Reference 
