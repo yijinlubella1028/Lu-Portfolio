@@ -17,4 +17,6 @@ I want to learn how to tell intriguing data stories to my clients at work. Speci
 
 [Assignment_3_4_critique_redesign](/assignment_3_4.md)
 
+[Assignment_4_data_visualization](/Assignment_4.md)
+
 ## Projects
