@@ -14,6 +14,7 @@ Since the Trump administration initiated the Trade War between U.S. and China, t
 
 *Resolution*
 - To remedy lost net exports with China, U.S. has to seek imports elsewhere - Show the cost of finding a new trade partner.
+- Chinese and US negotiators agreed to hit the pause button on their trade war on October 11, 2019, confirming that impending US tariff increases on China would not take effect as both sides make progress towards an agreement.
 
 *Main Idea*
 - The trade dependence of the U.S. on China has become much greater than China’s dependence on the U.S. It indicates that China has more flexibility in changing the trading allies in case of further escalation of the Trade war. As a result, the accumulation of long-term China-U.S. trade issues will hinder the optimization of global trade.
