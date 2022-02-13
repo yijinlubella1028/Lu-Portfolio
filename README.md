@@ -20,5 +20,5 @@ I want to learn how to tell intriguing data stories to my clients at work. Speci
 [Assignment_4_data_visualization](/Assignment_4.md)
 
 ## Final Project
-[Final Project Part I](/Part_I.md)
+[Final Project Part I](/Final_Project_BellaLu_Part_I.md)
 
