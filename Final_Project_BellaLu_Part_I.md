@@ -5,15 +5,15 @@ Since the Trump administration initiated the Trade War between U.S. and China, t
 
 ## Major Elements
 *Setup*
-1) Increasing trend of net exports between U.S. and China since 21st century.
-2) Importance of China as U.S. Trade Partner: U.S. top 5 trade partners comparison in respective to net exports.
+- Increasing trend of net exports between U.S. and China since 21st century.
+- Importance of China as U.S. Trade Partner: U.S. top 5 trade partners comparison in respective to net exports.
 
 *Conflict*
-1) Increasing deficit of trade since the phase I of the Trade War. 
-2) U.S. - China trade in percentage of U.S. Trade Total before and after the Trade War 
+- Increasing deficit of trade since the phase I of the Trade War. 
+- U.S. - China trade in percentage of U.S. Trade Total before and after the Trade War 
 
 *Resolution*
-1) To remedy lost net exports with China, U.S. has to seek imports elsewhere - Show the cost of finding a new trade partner.
+- To remedy lost net exports with China, U.S. has to seek imports elsewhere - Show the cost of finding a new trade partner.
 
 *Main Idea*
-The trade dependence of the U.S. on China has become much greater than China’s dependence on the U.S. It indicates that China has more flexibility in changing the trading allies in case of further escalation of the Trade war. As a result, the accumulation of long-term China-U.S. trade issues will hinder the optimization of global trade.
+- The trade dependence of the U.S. on China has become much greater than China’s dependence on the U.S. It indicates that China has more flexibility in changing the trading allies in case of further escalation of the Trade war. As a result, the accumulation of long-term China-U.S. trade issues will hinder the optimization of global trade.
