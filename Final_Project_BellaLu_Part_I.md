@@ -24,3 +24,13 @@ Since the Trump administration initiated the Trade War between U.S. and China, t
 ![IMG_0084](https://user-images.githubusercontent.com/78045377/153764238-f2e814a0-b9e9-441b-bc61-11aab17c85e4.jpg)
 ![IMG_0085](https://user-images.githubusercontent.com/78045377/153764260-4a50ade4-5183-46a6-9540-5c2ee836f3f8.jpg)
 ![cda4bfe2-102b-11ea-82cd-148dc44829b8_image_hires_021952](https://user-images.githubusercontent.com/78045377/153764320-ff6c23ae-451c-46c4-a19a-601a36b15ae9.jpeg)
+
+## Image Reference 
+“If Trade War Deal Is near, Will the Future for US and China Be Any Better?” South China Morning Post, 26 Nov. 2019, https://www.scmp.com/comment/opinion/article/3039350/if-trumps-interest-us-china-trade-war-flagging-and-deal-near-what. 
+
+Kafchinski, Joseph E. “US Census Bureau Foreign Trade.” United States Census Bureau, 21 Apr. 2009, https://www.census.gov/foreign-trade/Press-Release/current_press_release/index.html. 
+
+“Timeline: U.S. Relations with China 1949–2021.” Council on Foreign Relations, Council on Foreign Relations, https://www.cfr.org/timeline/us-relations-china. 
+“United States Trade Balance, Exports and Imports.” United States Trade Balance, Exports, Imports by Country and Region 2018 | WITS Data, https://wits.worldbank.org/CountryProfile/en/Country/USA/Year/2018/TradeFlow/EXPIMP. 
+
+“US-China Trade War Reaches a Pause, but Still a Long Way to Resolution.” Atlantic Council, 20 Nov. 2019, https://www.atlanticcouncil.org/blogs/new-atlanticist/us-china-trade-war-reaches-a-pause-but-still-a-long-way-to-resolution/. 
