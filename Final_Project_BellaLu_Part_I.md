@@ -31,6 +31,7 @@ Since the Trump administration initiated the Trade War between U.S. and China, t
 Kafchinski, Joseph E. “US Census Bureau Foreign Trade.” United States Census Bureau, 21 Apr. 2009, https://www.census.gov/foreign-trade/Press-Release/current_press_release/index.html. 
 
 “Timeline: U.S. Relations with China 1949–2021.” Council on Foreign Relations, Council on Foreign Relations, https://www.cfr.org/timeline/us-relations-china. 
+
 “United States Trade Balance, Exports and Imports.” United States Trade Balance, Exports, Imports by Country and Region 2018 | WITS Data, https://wits.worldbank.org/CountryProfile/en/Country/USA/Year/2018/TradeFlow/EXPIMP. 
 
 “US-China Trade War Reaches a Pause, but Still a Long Way to Resolution.” Atlantic Council, 20 Nov. 2019, https://www.atlanticcouncil.org/blogs/new-atlanticist/us-china-trade-war-reaches-a-pause-but-still-a-long-way-to-resolution/. 
