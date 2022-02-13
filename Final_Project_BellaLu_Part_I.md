@@ -18,3 +18,9 @@ Since the Trump administration initiated the Trade War between U.S. and China, t
 
 *Main Idea*
 - The trade dependence of the U.S. on China has become much greater than China’s dependence on the U.S. It indicates that China has more flexibility in changing the trading allies in case of further escalation of the Trade war. As a result, the accumulation of long-term China-U.S. trade issues will hinder the optimization of global trade.
+
+## Scatch
+![IMG_0082](https://user-images.githubusercontent.com/78045377/153764207-a41c05fd-e7a7-43cd-a697-da92207a72ff.jpg)
+![IMG_0084](https://user-images.githubusercontent.com/78045377/153764238-f2e814a0-b9e9-441b-bc61-11aab17c85e4.jpg)
+![IMG_0085](https://user-images.githubusercontent.com/78045377/153764260-4a50ade4-5183-46a6-9540-5c2ee836f3f8.jpg)
+![cda4bfe2-102b-11ea-82cd-148dc44829b8_image_hires_021952](https://user-images.githubusercontent.com/78045377/153764320-ff6c23ae-451c-46c4-a19a-601a36b15ae9.jpeg)
