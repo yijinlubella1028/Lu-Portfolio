@@ -28,7 +28,7 @@ Since the Trump administration initiated the Trade War between U.S. and China, t
 ## Data Source
 1) U.S. - China exports and imports data from 2000 to 2020. From there, I could calculate the evolution of net exports between the U.S. and China. Also, the Trade balance and the trade deficits throughout the years. The dataset is obtained from the publicly accessible website - U.S. Census Bureau, Foreign Trade. The datasets can be explored from my repository. [Data_Source](/Final Project - U.S. Trade Exports and Imports.xlsx)
 
-2) U.S. - China trade tariff change. I am still looking for this one. [Data_Source](/Final Project - U.S. Trade Exports and Imports.xlsx)
+2) U.S. - China trade tariff change. I am still looking for this one. [Data_Source](/Final Project- U.S. China Tariff.xlsx)
 
 3) U.S. trade partners. The dataset is the same from the first source. However, it aims to demonstrate China's significance in U.S. trade and how China's significance shift to other countries after the Trade War. [Data_Source](/Final Project - U.S. Trade Exports and Imports.xlsx)
 
