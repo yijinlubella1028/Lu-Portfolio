@@ -25,7 +25,14 @@ Since the Trump administration initiated the Trade War between U.S. and China, t
 ![IMG_0085](https://user-images.githubusercontent.com/78045377/153764260-4a50ade4-5183-46a6-9540-5c2ee836f3f8.jpg)
 ![cda4bfe2-102b-11ea-82cd-148dc44829b8_image_hires_021952](https://user-images.githubusercontent.com/78045377/153764320-ff6c23ae-451c-46c4-a19a-601a36b15ae9.jpeg)
 
-## Image Reference 
+## Data Source
+
+## Methods and Medium 
+I plan to use Excel/python to clean the data, filtering out useful information. Additionally, I plan to use Flourish and R to do the data visualizaiton. For the final presentation, I will use shorthand to communicate my data viz.
+
+
+
+## References 
 “If Trade War Deal Is near, Will the Future for US and China Be Any Better?” South China Morning Post, 26 Nov. 2019, https://www.scmp.com/comment/opinion/article/3039350/if-trumps-interest-us-china-trade-war-flagging-and-deal-near-what. 
 
 Kafchinski, Joseph E. “US Census Bureau Foreign Trade.” United States Census Bureau, 21 Apr. 2009, https://www.census.gov/foreign-trade/Press-Release/current_press_release/index.html. 
