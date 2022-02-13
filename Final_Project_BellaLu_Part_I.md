@@ -26,9 +26,9 @@ Since the Trump administration initiated the Trade War between U.S. and China, t
 ![cda4bfe2-102b-11ea-82cd-148dc44829b8_image_hires_021952](https://user-images.githubusercontent.com/78045377/153764320-ff6c23ae-451c-46c4-a19a-601a36b15ae9.jpeg)
 
 ## Data Source
-1) U.S. - China exports and imports data from 2000 to 2020. From there, I could calculate the evolution of net exports between the U.S. and China. Also, the Trade balance and the trade deficits throughout the years. The dataset is obtained from the publicly accessible website - U.S. Census Bureau, Foreign Trade. The datasets can be explored from my repository. 
+1) U.S. - China exports and imports data from 2000 to 2021. From there, I could calculate the evolution of net exports between the U.S. and China. Also, the Trade balance and the trade deficits throughout the years. The dataset is obtained from the publicly accessible website - U.S. Census Bureau, Foreign Trade. The datasets can be explored from my repository. 
 
-2) U.S. - China trade tariff change. I am still looking for this one. 
+2) U.S. - China trade tariff change. It is used for viewing the increasing tension between China and U.S. from imposed tariff on goods and services. It will be used in the confict section. The dataset can be explored from my repository but I am still looking for a better one. 
 
 3) U.S. trade partners. The dataset is the same from the first source. However, it aims to demonstrate China's significance in U.S. trade and how China's significance shift to other countries after the Trade War. 
 
