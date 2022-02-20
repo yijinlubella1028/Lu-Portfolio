@@ -34,5 +34,6 @@ This statistic shows the number of U.S. manufacturing jobs that were reshored to
 This statistic shows the results of a survey conducted among American companies in China on the perceived impact on their businesses of the U.S.-China trade tariffs as of September 2018. Not surprisingly, During the survey period, 31.1 percent of the surveyed American companies in China said that due to the U.S.-China trade tensions and tariffs they delayed or canceled investment decisions. On one hand, U.S. Comapnies lost great opportunities in Chinese market. On the other hand, China lost foreign investment from U.S. companies.
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/8761845"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Impact on Chinese Direct Investment to U.S.
+## Impact on Chinese Direct Investment to U.S.
+This statistic shows the value of Chinese direct investments in the United States from 2009 to 2019. 2019, the first year after the Trade War, Chinese direct investments in the United States amounted to approximately 4.78 billion U.S. dollars, the lowest annual investment since 2010. As I discussed above, the Trade War negatively impacted both sides' businesses. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8762053"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
