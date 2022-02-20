@@ -25,8 +25,10 @@ The trade imbalance exist between U.S. and China has been considered as the main
 
 The red line indicates China's tariff on U.S. exports, while the Blue line indicates the U.S. tariff on China's exports. It is noticeable that during the trade war era. Two countries have increased tariffs steeply. They seem to impose tariff orders simultaneously and one tariff after the other. Finally, the rate reaches an all-time high at 22% for China's tariff on U.S. exports and 21% on U.S. tariffs on Chinese exports. What is the result when two countries impose on each other's exports? 
 
-## Employment 
+## Impact on U.S. employment
+This statistic shows the number of U.S. manufacturing jobs that were reshored to the United States from 2010 to 2018, by country they were reshored from. Over the period of 2010 to 2018, 64,252 manufacturing jobs came from companies moving their business operations back from China to the United States. From the visualization, China, as a trade partner of U.S. generates the most job for U.S. from 2010 to 2018. It is over half of the total jobs generated from the trade. However, becuase of the increasing trade barrier between U.S. and China, trade is costly for businesses on both sides.
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/8761974"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Impact on U.S.companies' strategies in China
 This statistic shows the results of a survey conducted among American companies in China on the perceived impact on their businesses of the U.S.-China trade tariffs as of September 2018. Not surprisingly, During the survey period, 31.1 percent of the surveyed American companies in China said that due to the U.S.-China trade tensions and tariffs they delayed or canceled investment decisions. On one hand, U.S. Comapnies lost great opportunities in Chinese market. On the other hand, China lost foreign investment from U.S. companies.
