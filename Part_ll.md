@@ -19,9 +19,16 @@ The Ping-Pong Diplomacy between U.S. and China has been smoothly developed since
 The trade imbalance exist between U.S. and China has been considered as the main reason for the trade war. In 2018, the trade deficit between U.S. exports and U.S. imports from China reaches the highest point since 2015, and it is still considered as the highest deficit until now.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8761610"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Conflict: Raising Tariff during the Trade War 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8760384"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 The red line indicates China's tariff on U.S. exports, while the Blue line indicates the U.S. tariff on China's exports. It is noticeable that during the trade war era. Two countries have increased tariffs steeply. They seem to impose tariff orders simultaneously and one tariff after the other. Finally, the rate reaches an all-time high at 22% for China's tariff on U.S. exports and 21% on U.S. tariffs on Chinese exports. What is the result when two countries impose on each other's exports? 
 
 ## Employment 
+
+
+## Impact on U.S.companies' strategies in China
+This statistic shows the results of a survey conducted among American companies in China on the perceived impact on their businesses of the U.S.-China trade tariffs as of September 2018. Not surprisingly, During the survey period, 31.1 percent of the surveyed American companies in China said that due to the U.S.-China trade tensions and tariffs they delayed or canceled investment decisions. On one hand, U.S. Comapnies lost great opportunities in Chinese market. On the other hand, China lost foreign investment from U.S. companies.
+
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/8761845"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
