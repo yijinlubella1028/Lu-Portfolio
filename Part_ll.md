@@ -17,8 +17,8 @@ The Ping-Pong Diplomacy between U.S. and China has been smoothly developed since
 
 ### Trade Deficit
 The trade imbalance exist between U.S. and China has been considered as the main reason for the trade war. In 2018, the trade deficit between U.S. exports and U.S. imports from China reaches the highest point since 2015, and it is still considered as the highest deficit until now.
-<div class="flourish-embed flourish-chart" data-src="visualisation/8761610"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/8761610"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 ## Conflict: Raising Tariff during the Trade War 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8760384"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
