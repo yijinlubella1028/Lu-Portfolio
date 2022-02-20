@@ -38,3 +38,6 @@ This statistic shows the results of a survey conducted among American companies 
 ## Impact on Chinese Direct Investment to U.S.
 This statistic shows the value of Chinese direct investments in the United States from 2009 to 2019. 2019, the first year after the Trade War, Chinese direct investments in the United States amounted to approximately 4.78 billion U.S. dollars, the lowest annual investment since 2010. As I discussed above, the Trade War negatively impacted both sides' businesses. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8762053"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Resolution 
+
