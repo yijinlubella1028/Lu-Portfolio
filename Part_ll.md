@@ -7,6 +7,10 @@ Since the Trump administration initiated the Trade War between U.S. and China, t
 Despite an informative review on the change of U.S.-China trade relations, I would love to emphasize the significance of this project - to understand the negative impacts on both U.S. and China's economies and call government agencies for immediate actions to stop the meaningless increase trade barriers between two countries. The Intended audience for the data visualization is the government agency. In addition, I hope that my graph is intuitive enough that policy students and the general public can understand the impact on both countries.
 
 ## Set Up
+Images are from free copyrights website
+
+![pexels-josh-sorenson-976873](https://user-images.githubusercontent.com/78045377/154861922-da824205-167c-4314-a883-e15e7b0e8c1d.jpg)
+![pexels-karolina-grabowska-4386371](https://user-images.githubusercontent.com/78045377/154861925-1ece97bb-c00d-4350-8ba4-1dda09a182b3.jpg)
 
 
 
