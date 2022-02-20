@@ -11,7 +11,7 @@ Images are from free copyrights website
 
 <img src="https://user-images.githubusercontent.com/78045377/154861922-da824205-167c-4314-a883-e15e7b0e8c1d.jpg" width = "250" height = "200">
 
-<img src = "https://user-images.githubusercontent.com/78045377/154861925-1ece97bb-c00d-4350-8ba4-1dda09a182b3.jpg" width = "250" height = "200">
+<img src = "https://user-images.githubusercontent.com/78045377/154861925-1ece97bb-c00d-4350-8ba4-1dda09a182b3.jpg" width = "350" height = "200">
 
 The Ping-Pong Diplomacy between U.S. and China has been smoothly developed since the 1970s from aspects of the economy, cultural exchange, trade, and international affairs. Though there are some scratches on the different standpoints of political issues and global dominance, both sides remain in a peaceful relationship until 2018. However, the turning point for U.S. and China trade relations was that the Trump administration assumed that the U.S. Trade Deficit - which occurred when a country imports more than its exports - was inherently evil, and China was to blame. Thus, Washington initiated a series of tariffs on China's exports to protect its domestic suppliers and generate revenue from tariffs.
 
