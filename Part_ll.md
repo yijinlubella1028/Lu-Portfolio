@@ -16,7 +16,8 @@ Images are from free copyrights website
 The Ping-Pong Diplomacy between U.S. and China has been smoothly developed since the 1970s from aspects of the economy, cultural exchange, trade, and international affairs. Though there are some scratches on the different standpoints of political issues and global dominance, both sides remain in a peaceful relationship until 2018. However, the turning point for U.S. and China trade relations was that the Trump administration assumed that the U.S. Trade Deficit - which occurred when a country imports more than its exports - was inherently evil, and China was to blame. Thus, Washington initiated a series of tariffs on China's exports to protect its domestic suppliers and generate revenue from tariffs.
 
 ### Trade Deficit
-The trade imbalance exist between U.S. and China has been considered as the main reason for the trade war.
+The trade imbalance exist between U.S. and China has been considered as the main reason for the trade war. In 2018, the trade deficit between U.S. exports and U.S. imports from China reaches the highest point since 2015, and it is still considered as the highest deficit until now.
+<div class="flourish-embed flourish-chart" data-src="visualisation/8761610"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Conflict: Raising Tariff during the Trade War 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8760384"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
