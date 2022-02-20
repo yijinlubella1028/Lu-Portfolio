@@ -21,4 +21,5 @@ I want to learn how to tell intriguing data stories to my clients at work. Speci
 
 ## Final Project
 [Final Project Part I](/Final_Project_BellaLu_Part_I.md)
+[Final Project Part II](/Part_ll.md)
 
