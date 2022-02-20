@@ -8,6 +8,7 @@ Despite an informative review on the change of U.S.-China trade relations, I wou
 
 ## Set Up
 Images are from free copyrights website
+
 <img src="https://user-images.githubusercontent.com/78045377/154861922-da824205-167c-4314-a883-e15e7b0e8c1d.jpg" width = "250" height = "200">
 
 <img src = "https://user-images.githubusercontent.com/78045377/154861925-1ece97bb-c00d-4350-8ba4-1dda09a182b3.jpg" width = "250" height = "200">
