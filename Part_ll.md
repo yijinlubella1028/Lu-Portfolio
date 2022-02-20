@@ -24,4 +24,4 @@ The trade imbalance exist between U.S. and China has been considered as the main
 
 The red line indicates China's tariff on U.S. exports, while the Blue line indicates the U.S. tariff on China's exports. It is noticeable that during the trade war era. Two countries have increased tariffs steeply. They seem to impose tariff orders simultaneously and one tariff after the other. Finally, the rate reaches an all-time high at 22% for China's tariff on U.S. exports and 21% on U.S. tariffs on Chinese exports. What is the result when two countries impose on each other's exports? 
 
-## Business
+## Employment 
