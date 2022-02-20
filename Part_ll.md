@@ -1,5 +1,14 @@
-# U.S.-China Trade War impacts businesses on both sides
+# U.S.-China Trade War Impacts Businesses on Both Sides
+
+## Summary
+Since the Trump administration initiated the Trade War between U.S. and China, the U.S. has increased tariffs on China imports, and thus both U.S. exports and imports with China have decreased a lot. The Trade War strikes the collaborative relationship between the two countries and dramatically impacts the U.S.'s trade structure. In this project, I am interested in exploring the trade shift between the U.S. and China before and after the Trade War, including the change in exports and imports, trade partners, and categories of goods and services.
+
+## Call to Action
+Despite an informative review on the change of U.S.-China trade relations, I would love to emphasize the significance of this project - to understand the negative impacts on both U.S. and China's economies and call government agencies for immediate actions to stop the meaningless increase trade barriers between two countries. The Intended audience for the data visualization is the government agency. In addition, I hope that my graph is intuitive enough that policy students and the general public can understand the impact on both countries.
+
+## Set Up
 
 
-## Raising Tariff during the Trade War 
+
+## Conflict: Raising Tariff during the Trade War 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8760384"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
