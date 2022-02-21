@@ -40,4 +40,21 @@ This statistic shows the value of Chinese direct investments in the United State
 <div class="flourish-embed flourish-chart" data-src="visualisation/8762053"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Resolution 
+"More Pain Than Gain" - Trade War hurts both sides
+The trade war caused economic pain on both sides and led to diversion of trade flows away from both China and the United States. 
+- As described by Heather Long at the Washington Post, “U.S. economic growth slowed, business investment froze, and companies didn’t hire as many people. Across the nation, a lot of farmers went bankrupt, and the manufacturing and freight transportation sectors have hit lows not seen since the last recession. Trump’s actions amounted to one of the largest tax increases in years.” (Brookings)
+
+For U.S.
+- The trade deficit is not remarkly reduced after the trade war.
+- U.S. companies lost at least $1.7 trillion in the price of their stocks as a result of U.S. tariffs imposed on imports from China.
+- The trade war had already cost the U.S. economy nearly 300,000 jobs and an estimated 0.3% of real GDP by 2021.
+
+For China
+- Chinese firms have recently started absorbing part of the costs of the tariffs by reducing the prices of their exports.
+- US tariffs caused a 25% export loss, inflicting a US$35 billion blow to Chinese exports in the US market for tariffed goods in the first half of 2019.
+
+
+## References
+
+
 
