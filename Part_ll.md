@@ -65,6 +65,6 @@ Trade War Chicken - Moody's Analytics. https://www.moodysanalytics.com/-/media/a
 
 “Trade War Leaves Both US and China Worse Off.” UNCTAD, 6 Nov. 2019, https://unctad.org/news/trade-war-leaves-both-us-and-china-worse. 
 
-[References from Part I]
+[References from Part I](Final_Project_BellaLu_Part_I.md)
 
 
