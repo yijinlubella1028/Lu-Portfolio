@@ -55,6 +55,23 @@ For China
 - Chinese firms have recently started absorbing part of the costs of the tariffs by reducing the prices of their exports.
 - US tariffs caused a 25% export loss, inflicting a US$35 billion blow to Chinese exports in the US market for tariffed goods in the first half of 2019.
 
+## User Research
+### Interview Script
+1. What are your initial reactions to the layout and logical structure of the website?
+2. What are some of the things that are working about the overall layout/use of color? Do you find the colors to be distracting or do they compliment the story?
+3. What are some things that are confusing in the layout or use of color that you would want to see improved?
+4. Are the visualizations clear in what they are showing? If not, what could be improved in the visualizations?
+5. Is there sufficient evidence presented here to support this main point? If not, What additional information would you need for the visualizations to be sufficiently persuasive?
+6. Do you feel like you’ve learned something from this?
+7. Do you have any final thoughts or suggestions that weren’t already covered in the previous questions?	
+
+### Answer
+I interviewed 2 policy students and 1 business students. One is from China and the other two is from the U.S. All of them are around age 25, and have a strong interest in international politics.
+
+#### Q1
+A: 
+
+## Key Improvements
 
 ## References
 Brown, Justin. “How the US-China Trade War Impacts the Channel.” FGX, 11 Feb. 2022, https://www.googleadservices.com/pagead/. 
