@@ -55,6 +55,16 @@ For China
 
 
 ## References
+Brown, Justin. “How the US-China Trade War Impacts the Channel.” FGX, 11 Feb. 2022, https://www.googleadservices.com/pagead/. 
 
+Hass, Ryan, and Abraham Denmark. “More Pain than Gain: How the US-China Trade War Hurt America.” Brookings, Brookings, 25 Aug. 2020, https://www.brookings.edu/blog/order-from-chaos/2020/08/07/more-pain-than-gain-how-the-us-china-trade-war-hurt-america/. 
+
+Huang, Yukon. “The U.S.-China Trade War Has Become a Cold War.” Carnegie Endowment for International Peace, https://carnegieendowment.org/2021/09/16/u.s.-china-trade-war-has-become-cold-war-pub-85352. 
+
+Trade War Chicken - Moody's Analytics. https://www.moodysanalytics.com/-/media/article/2019/trade-war-chicken.pdf. 
+
+“Trade War Leaves Both US and China Worse Off.” UNCTAD, 6 Nov. 2019, https://unctad.org/news/trade-war-leaves-both-us-and-china-worse. 
+
+[References from Part I]
 
 
