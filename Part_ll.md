@@ -57,19 +57,53 @@ For China
 
 ## User Research
 ### Interview Script
-1. What are your initial reactions to the layout and logical structure of the website?
-2. What are some of the things that are working about the overall layout/use of color? Do you find the colors to be distracting or do they compliment the story?
-3. What are some things that are confusing in the layout or use of color that you would want to see improved?
-4. Are the visualizations clear in what they are showing? If not, what could be improved in the visualizations?
-5. Is there sufficient evidence presented here to support this main point? If not, What additional information would you need for the visualizations to be sufficiently persuasive?
-6. Do you feel like you’ve learned something from this?
-7. Do you have any final thoughts or suggestions that weren’t already covered in the previous questions?	
+I design the interview script from aspects of aesthetics, intuitiveness, logical coherence and persuasion effectiveness.
+
+*Aesthetics & Intuitiveness*
+1) What are your initial reactions to the layout and logical structure of the story?
+2) What are some of the things that are working about the overall layout/use of color? Do you find the colors to be distracting or do they compliment the story?
+3) What are some things that are confusing in the layout or use of color that you would want to see improved?
+
+*Logical Coherence & Persuasion Effectiveness*
+4) Are the visualizations clear in what they are showing? If not, what could be improved in the visualizations?
+5) Is there sufficient evidence presented here to support this main point? If not, What additional information would you need for the visualizations to be sufficiently persuasive?
+
+*Overall Feedback*
+6) Do you feel like you’ve learned something from this?
+7) Do you have any final thoughts or suggestions that weren’t already covered in the previous questions?
 
 ### Answer
 I interviewed 2 policy students and 1 business students. One is from China and the other two is from the U.S. All of them are around age 25, and have a strong interest in international politics.
 
-#### Q1
-A: 
+Q1
+A: I like your story flow, and I think it is pretty intuitive to understand 
+B: It is a great story. I did not notice that Chinese investment in the U.S. has decreased a lot after the Trade War.
+C: I think the story is logical, but I would recommend you work more on the call to the action part. I think the call to action is not strong enough. Do you have any actionable plan for that?
+
+Q2
+A: I found the second to the last graph pretty distracting. What is the point of putting the number there? I suggest you remove the number and enlarge the circle you want to talk about.
+B: It would be better to remove your legend from the pie chart.
+C: Overall, I think it is excellent to use color. When you put your presentation in shorthand, you want to ensure the consistency of the paint.
+
+Q3
+A: No
+B: As I said before, I suggest you remove the legend in the pie chart. I think they are pretty distracting.
+C: No.
+
+Q4
+A, B: Visualization is pretty clear on what it is showing.
+C: I would recommend you put a chart for the call to the action part. Since the resolution part is full of words, it would be better to see a projection on U.S.-China relations when your recommended policy is implemented.
+
+Q5
+A: I think information is limited for expansion due to 1 minute presentation time. I would recommend you to expand on the call to the action part and maybe relate to the cause of the trade war at the beginning. 
+B: I think you are given a comprehensive review. 
+C: Evidence is sufficiently provided
+
+Q6 Q7
+A: Definitely, I learned from your story. I found it surprising to quantify the negative impacts of the trade war on the U.S. and China. Nice job.
+
+B: Thanks for sharing this. I love how your story flows to the end. 
+C: My final thought would be more engaging to the audience. I think your story is logically constructed, and the evidence is sufficient, but I think you need to use your graph to communicate more to the audience. For instance, you can ask some questions while you are presenting or make contrast between the audience’s expectation and the reality. Overall, excellent job!
 
 ## Key Improvements
 
