@@ -4,7 +4,7 @@
 Since the Trump administration initiated the Trade War between U.S. and China, the U.S. has increased tariffs on China imports, and thus both U.S. exports and imports with China have decreased a lot. The Trade War strikes the collaborative relationship between the two countries and dramatically impacts the U.S.'s trade structure. In this project, I am interested in exploring the trade shift between the U.S. and China before and after the Trade War, including the change in exports and imports, trade partners, and categories of goods and services.
 
 ## Call to Action
-Despite an informative review on the change of U.S.-China trade relations, I would love to emphasize the significance of this project - to understand the negative impacts on both U.S. and China's economies and call government agencies for immediate actions to stop the meaningless increase trade barriers between two countries. The Intended audience for the data visualization is the government agency. In addition, I hope that my graph is intuitive enough that policy students and the general public can understand the impact on both countries.
+Despite an informative review on the change of U.S.-China trade relations, I would love to emphasize the significance of this project - to understand the negative impacts on both U.S. and China's economies and call government agencies for immediate actions to stop the meaningless increase trade barriers between two countries. The Intended audience for the data visualization is for policy students to understand the reasoning and consequences of the Trade War so that they will be more careful in forming international political decisions in the future. In addition, I hope that my graph is intuitive enough that the general public can understand the impact on both countries.
 
 ## Set Up
 Images are from free copyrights website
@@ -28,17 +28,17 @@ The red line indicates China's tariff on U.S. exports, while the Blue line indic
 <div class="flourish-embed flourish-chart" data-src="visualisation/8760384"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Impact on U.S. employment
-This statistic shows the number of U.S. manufacturing jobs that were restored to the United States from 2010 to 2018 by the country they were reshored from. For 2010 to 2018, 64,252 manufacturing jobs came from companies moving their business operations back from China to the United States. From the visualization, China, as a trade partner of U.S., generated the most job for the U.S. from 2010 to 2018. It is over half of the total jobs generated from the trade. However, because of the increasing trade barrier between U.S. and China, trade becomes costly for businesses on both sides and thus could potentially harm the U.S. job market.
+The predominant impact would be U.S. domestic employment. This statistic shows the number of U.S. manufacturing jobs restored to the United States from 2010 to 2018. From 2010 to 2018, 64,252 manufacturing jobs came from business operations for U.S.-China trade. From the visualization, China, as a trade partner of the U.S., generated the most job for the U.S. from 2010 to 2018 among all trade partners. It is over half of the total overseas manufacturing employment generated. However, because of the increasing trade barrier between U.S. and China, trade becomes costly for businesses on both sides and thus could potentially harm the U.S. job market.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8761974"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Impact on U.S. companies' strategies in China
-This statistic shows the results of a survey conducted among American companies in China on the perceived impact on their businesses of the U.S.-China trade tariffs as of September 2018. Not surprisingly, During the survey period, 31.1 percent of the surveyed American companies in China said that due to the U.S.-China trade tensions and tariffs they delayed or canceled investment decisions. On one hand, U.S. Comapnies lost great opportunities in Chinese market. On the other hand, China lost foreign investment from U.S. companies.
+There is also potental impact on U.S. companies strategy in China. This statistic shows the results of a survey conducted among American companies in China on the perceived impact on their businesses of the U.S.-China trade tariffs as of September 2018. Not surprisingly, During the survey period, 31.1 percent of the surveyed American companies in China said that due to the U.S.-China trade tensions and tariffs they delayed or canceled investment decisions. On one hand, U.S. Comapnies lost great opportunities in Chinese market. On the other hand, China lost foreign investment from U.S. companies.
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/8761845"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Impact on Chinese Direct Investment to U.S.
-This statistic shows the value of Chinese direct investments in the United States from 2009 to 2019. 2019, the first year after the Trade War, Chinese direct investments in the United States amounted to approximately 4.78 billion U.S. dollars, the lowest annual investment since 2010. As I discussed above, the Trade War negatively impacted both sides' businesses. 
+Because of U.S. companies diminishing interest to China, Chinese companies start to see U.S. market for fewer collaboration opportunities. This statistic shows the value of Chinese direct investments in the United States from 2009 to 2019. 2019, the first year after the Trade War, Chinese direct investments in the United States amounted to approximately 4.78 billion U.S. dollars, the lowest annual investment since 2010. As I discussed above, the Trade War negatively impacted both sides' businesses. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8762053"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Resolution 
@@ -46,8 +46,10 @@ This statistic shows the value of Chinese direct investments in the United State
 The trade war caused economic pain on both sides and led to diversion of trade flows away from both China and the United States. 
 - As described by Heather Long at the Washington Post, “U.S. economic growth slowed, business investment froze, and companies didn’t hire as many people. Across the nation, a lot of farmers went bankrupt, and the manufacturing and freight transportation sectors have hit lows not seen since the last recession. Trump’s actions amounted to one of the largest tax increases in years.” (Brookings)
 
+Most importantly, the trade deficit, which is the primary goal of the trade war remained the same.
+<div class="flourish-embed flourish-chart" data-src="visualisation/8761610"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 For U.S.
-- The trade deficit is not remarkly reduced after the trade war.
 - U.S. companies lost at least $1.7 trillion in the price of their stocks as a result of U.S. tariffs imposed on imports from China.
 - The trade war had already cost the U.S. economy nearly 300,000 jobs and an estimated 0.3% of real GDP by 2021.
 
@@ -78,19 +80,19 @@ I design the interview script from aspects of aesthetics, intuitiveness, logical
 I interviewed 2 policy students and 1 business students. One is from China and the other two is from the U.S. All of them are around age 25, and have a strong interest in international politics.
 
 Q1
-- A: I like your story flow, and I think it is pretty intuitive to understand 
+- A: I like your story flow, and I think it is pretty intuitive to understand. I have a second thought on your analysis part. Could you provide a comparison on the cost to U.S. and the cost to China on one thing, for instnace, the foreign investment. I am really curious about who loses the most.
 - B: It is a great story. I did not notice that Chinese investment in the U.S. has decreased a lot after the Trade War.
-- C: I think the story is logical, but I would recommend you work more on the call to the action part. I think the call to action is not strong enough. Do you have any actionable plan for that?
+- C: I think the story is logical, but I would recommend you work more on the call to the action part. I think the call to action is not strong enough. Do you have any actionable plan for that? What is the next step for two governments?
 
 Q2
-- A: I found the second to the last graph pretty distracting. What is the point of putting the number there? I suggest you remove the number and enlarge the circle you want to talk about.
-- B: It would be better to remove your legend from the pie chart.
+- A: I found the second to the last graph pretty distracting (bubble chart). What is the point of putting the number there? I suggest you remove the number and enlarge the circle you want to talk about.
+- B: It would be better to remove your legend from the pie chart. Also, the bubble chart. I suggest you to adjust the size of the bubble. From your story, i only heard about the declining interest, but my first-sight is on the "NO IMPACT" bubble. It would be better if you adjust the "no impact" bubble to a smaller size.
 - C: Overall, I think it is excellent to use color. When you put your presentation in shorthand, you want to ensure the consistency of the paint.
 
 Q3
 - A: No
 - B: As I said before, I suggest you remove the legend in the pie chart. I think they are pretty distracting.
-- C: No.
+- C: When you talk about the employement in the U.S. I see that China-U.S. trade generates over 50% of manufacturing employment in the U.S. but what does it do with the trade war impact - I understand you want to talk about the potential harm. But, would it be better if you can give some data viz to show the change?
 
 Q4
 - A, B: Visualization is pretty clear on what it is showing.
@@ -108,7 +110,7 @@ Q6 Q7
 
 ## Learning from the interview & Key Improvements
 
-I found that people talk about the highlight of my graph and the “call to action” part. I am considering adding more information on the call to the action part and highlighting the critical information in my chart. Additionally, I would love to do some further research on the impact of the Trade War on both the U.S and China. I want some data figures to stress the “huge impact” point. Additionally, I need to find some relevant graphs for the shorthand presentation.
+I found that people talk about the highlight of my graph and the “call to action” part. I am considering adding more information on the call to the action part and highlighting the critical information in my chart. Additionally, I would love to do some further research on the impact of the Trade War on both the U.S and China. I want some data figures to stress the “huge impact” and the comparison of "cost" on both countries. Additionally, I need to find some relevant graphs for the presentation background.
 
 ## References
 Brown, Justin. “How the US-China Trade War Impacts the Channel.” FGX, 11 Feb. 2022, https://www.googleadservices.com/pagead/. 
