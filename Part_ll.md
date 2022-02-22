@@ -106,7 +106,9 @@ Q6 Q7
 - B: Thanks for sharing this. I love how your story flows to the end. 
 - C: My final thought would be more engaging to the audience. I think your story is logically constructed, and the evidence is sufficient, but I think you need to use your graph to communicate more to the audience. For instance, you can ask some questions while you are presenting or make contrast between the audience’s expectation and the reality. Overall, excellent job!
 
-## Key Improvements
+## Learning from the interview & Key Improvements
+
+I found that people talk about the highlight of my graph and the “call to action” part. I am considering adding more information on the call to the action part and highlighting the critical information in my chart. Additionally, I would love to do some further research on the impact of the Trade War on both the U.S and China. I want some data figures to stress the “huge impact” point. Additionally, I need to find some relevant graphs for the shorthand presentation.
 
 ## References
 Brown, Justin. “How the US-China Trade War Impacts the Channel.” FGX, 11 Feb. 2022, https://www.googleadservices.com/pagead/. 
