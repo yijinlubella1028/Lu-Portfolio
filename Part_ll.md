@@ -123,4 +123,6 @@ Trade War Chicken - Moody's Analytics. https://www.moodysanalytics.com/-/media/a
 
 [References from Part I](Final_Project_BellaLu_Part_I.md)
 
+Data: data files can be found from my repository, all data sources are cited in the chart.
+
 
