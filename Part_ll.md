@@ -60,17 +60,19 @@ For China
 I design the interview script from aspects of aesthetics, intuitiveness, logical coherence and persuasion effectiveness.
 
 *Aesthetics & Intuitiveness*
+
 1) What are your initial reactions to the layout and logical structure of the story?
 2) What are some of the things that are working about the overall layout/use of color? Do you find the colors to be distracting or do they compliment the story?
 3) What are some things that are confusing in the layout or use of color that you would want to see improved?
 
 *Logical Coherence & Persuasion Effectiveness*
-4) Are the visualizations clear in what they are showing? If not, what could be improved in the visualizations?
-5) Is there sufficient evidence presented here to support this main point? If not, What additional information would you need for the visualizations to be sufficiently persuasive?
+
+1) Are the visualizations clear in what they are showing? If not, what could be improved in the visualizations?
+2) Is there sufficient evidence presented here to support this main point? If not, What additional information would you need for the visualizations to be sufficiently persuasive?
 
 *Overall Feedback*
-6) Do you feel like you’ve learned something from this?
-7) Do you have any final thoughts or suggestions that weren’t already covered in the previous questions?
+1) Do you feel like you’ve learned something from this?
+2) Do you have any final thoughts or suggestions that weren’t already covered in the previous questions?
 
 ### Answer
 I interviewed 2 policy students and 1 business students. One is from China and the other two is from the U.S. All of them are around age 25, and have a strong interest in international politics.
