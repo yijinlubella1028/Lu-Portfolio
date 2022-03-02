@@ -1,6 +1,7 @@
 # Final Project Part lll
 
 ## Access to Shorthand webpage 
+
 <script src="https://carnegiemellon.shorthandstories.com/u-s-china-trade-war-impacts-economies-on-both-sides/embed.js"></script>
 
 ## Access to part I and II
