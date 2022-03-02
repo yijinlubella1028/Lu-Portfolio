@@ -68,4 +68,18 @@ In part II, I gained a clearer idea of what I will be doing for the final projec
 Finally, in part III, I finalized my data story by making a total of five steps, which have all been listed above. While I was doing this project, I gained a thorough understanding of using data visualization to support ideas. In the meantime, I am becoming more confident in my practical skills for visualization data and conveying ideas to the targeted audience.
 
 ## References Overall
+### Part I
+“If Trade War Deal Is near, Will the Future for US and China Be Any Better?” South China Morning Post, 26 Nov. 2019, https://www.scmp.com/comment/opinion/article/3039350/if-trumps-interest-us-china-trade-war-flagging-and-deal-near-what.
+
+Kafchinski, Joseph E. “US Census Bureau Foreign Trade.” United States Census Bureau, 21 Apr. 2009, https://www.census.gov/foreign-trade/Press-Release/current_press_release/index.html.
+
+“Timeline: U.S. Relations with China 1949–2021.” Council on Foreign Relations, Council on Foreign Relations, https://www.cfr.org/timeline/us-relations-china.
+
+“United States Trade Balance, Exports and Imports.” United States Trade Balance, Exports, Imports by Country and Region 2018, WITS Data, https://wits.worldbank.org/CountryProfile/en/Country/USA/Year/2018/TradeFlow/EXPIMP.
+
+“US-China Trade War Reaches a Pause, but Still a Long Way to Resolution.” Atlantic Council, 20 Nov. 2019, https://www.atlanticcouncil.org/blogs/new-atlanticist/us-china-trade-war-reaches-a-pause-but-still-a-long-way-to-resolution/.
+
+### Part II
+
+
 
