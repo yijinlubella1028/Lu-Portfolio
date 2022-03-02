@@ -24,3 +24,5 @@ I want to learn how to tell intriguing data stories to my clients at work. Speci
 
 [Final Project Part II](/Part_ll.md)
 
+[Final Project Part III](/Part_lll.md)
+
