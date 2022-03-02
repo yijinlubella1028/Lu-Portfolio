@@ -68,6 +68,30 @@ In part II, I gained a clearer idea of what I will be doing for the final projec
 Finally, in part III, I finalized my data story by making a total of five steps, which have all been listed above. While I was doing this project, I gained a thorough understanding of using data visualization to support ideas. In the meantime, I am becoming more confident in my practical skills for visualization data and conveying ideas to the targeted audience.
 
 ## References Overall
+### Data Source (All data sources are downloaded, and shown in the repository)
+Kafchinski, Joseph E. “US Census Bureau Foreign Trade.” United States Census Bureau, 21 Apr. 2009, https://www.census.gov/foreign-trade/Press-Release/current_press_release/index.html.
+
+“United States Trade Balance, Exports and Imports.” United States Trade Balance, Exports, Imports by Country and Region 2018, WITS Data, https://wits.worldbank.org/CountryProfile/en/Country/USA/Year/2018/TradeFlow/EXPIMP.
+
+“US-China Trade War Tariffs: An up-to-Date Chart.” PIIE, March 16, 2021. https://www.piie.com/research/piie-charts/us-china-trade-war-tariffs-date-chart. 
+
+Engineers, dgs Marketing. “Reshoring Initiative® 2020 Data Report: Reshoring Blog: Reshoring Initiative.” Reshoring Initiative® 2020 Data Report | Reshoring Blog | Reshoring Initiative. Accessed March 2, 2022. https://reshorenow.org/blog/reshoring-initiative-2020-data-report/. 
+
+HKTDC. (June 21, 2019). Business opportunities of interest for enterprises from mainland China to do business abroad as of 1st quarter 2019 [Graph]. In Statista. Retrieved March 02, 2022, from https://www-statista-com.cmu.idm.oclc.org/statistics/1027151/opportunities-of-interest-for-chinese-mainland-companies-on-overseas-business/
+
+Rutkowski, Emma, John Larsen, and Thilo Hanemann. “Rhodium Group.” Rhodium Group. Accessed March 2, 2022. https://rhg.com/. 
+
+### Image Sources (All come from Pexels - CMU library copyright free image source)
+Ping-Pong image: Photo by Josh Sorenson from Pexels
+
+Front Page, U.S. - China flag image: Photo by Karolina Grabowska from Pexels
+
+Manufacturing Job image: Photo by Cleyder Duque from Pexels; Photo by Kateryna Babaieva from Pexels
+
+No war image: Photo by cottonbro from Pexels
+
+Global Map image: Photo by Andrea Piacquadio from Pexels
+
 ### Part I
 “If Trade War Deal Is near, Will the Future for US and China Be Any Better?” South China Morning Post, 26 Nov. 2019, https://www.scmp.com/comment/opinion/article/3039350/if-trumps-interest-us-china-trade-war-flagging-and-deal-near-what.
 
@@ -90,5 +114,12 @@ Trade War Chicken - Moody's Analytics. https://www.moodysanalytics.com/-/media/a
 
 “Trade War Leaves Both US and China Worse Off.” UNCTAD, 6 Nov. 2019, https://unctad.org/news/trade-war-leaves-both-us-and-china-worse. 
 
-### Part III (References for data story, include some references from Part I and Part II)
+### Part III (In addition to Part I and Part II references)
+“US-China Trade War Tariffs: An up-to-Date Chart.” PIIE, March 16, 2021. https://www.piie.com/research/piie-charts/us-china-trade-war-tariffs-date-chart. 
+
+Engineers, dgs Marketing. “Reshoring Initiative® 2020 Data Report: Reshoring Blog: Reshoring Initiative.” Reshoring Initiative® 2020 Data Report | Reshoring Blog | Reshoring Initiative. Accessed March 2, 2022. https://reshorenow.org/blog/reshoring-initiative-2020-data-report/. 
+
+HKTDC. (June 21, 2019). Business opportunities of interest for enterprises from mainland China to do business abroad as of 1st quarter 2019 [Graph]. In Statista. Retrieved March 02, 2022, from https://www-statista-com.cmu.idm.oclc.org/statistics/1027151/opportunities-of-interest-for-chinese-mainland-companies-on-overseas-business/
+
+Rutkowski, Emma, John Larsen, and Thilo Hanemann. “Rhodium Group.” Rhodium Group. Accessed March 2, 2022. https://rhg.com/. 
 
