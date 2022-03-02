@@ -123,3 +123,5 @@ HKTDC. (June 21, 2019). Business opportunities of interest for enterprises from 
 
 Rutkowski, Emma, John Larsen, and Thilo Hanemann. “Rhodium Group.” Rhodium Group. Accessed March 2, 2022. https://rhg.com/. 
 
+Amadeo, Kimberly. “U.S. Trade Deficit with China and Why It's so High.” The Balance. Accessed March 2, 2022. https://www.thebalance.com/u-s-china-trade-deficit-causes-effects-and-solutions-3306277. 
+
