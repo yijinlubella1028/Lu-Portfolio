@@ -79,7 +79,16 @@ Kafchinski, Joseph E. “US Census Bureau Foreign Trade.” United States Census
 
 “US-China Trade War Reaches a Pause, but Still a Long Way to Resolution.” Atlantic Council, 20 Nov. 2019, https://www.atlanticcouncil.org/blogs/new-atlanticist/us-china-trade-war-reaches-a-pause-but-still-a-long-way-to-resolution/.
 
-### Part II
+### Part II (In addition to Part I references)
+Brown, Justin. “How the US-China Trade War Impacts the Channel.” FGX, 11 Feb. 2022, https://www.googleadservices.com/pagead/. 
 
+Hass, Ryan, and Abraham Denmark. “More Pain than Gain: How the US-China Trade War Hurt America.” Brookings, Brookings, 25 Aug. 2020, https://www.brookings.edu/blog/order-from-chaos/2020/08/07/more-pain-than-gain-how-the-us-china-trade-war-hurt-america/. 
 
+Huang, Yukon. “The U.S.-China Trade War Has Become a Cold War.” Carnegie Endowment for International Peace, https://carnegieendowment.org/2021/09/16/u.s.-china-trade-war-has-become-cold-war-pub-85352. 
+
+Trade War Chicken - Moody's Analytics. https://www.moodysanalytics.com/-/media/article/2019/trade-war-chicken.pdf. 
+
+“Trade War Leaves Both US and China Worse Off.” UNCTAD, 6 Nov. 2019, https://unctad.org/news/trade-war-leaves-both-us-and-china-worse. 
+
+### Part III (References for data story, include some references from Part I and Part II)
 
