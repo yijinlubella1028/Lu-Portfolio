@@ -1,4 +1,4 @@
-# Part I 
+# Final Project Part I 
 
 ## Summary 
 Since the Trump administration initiated the Trade War between U.S. and China, the U.S. has increased tariffs on China imports, and thus both U.S. exports and imports with China have decreased a lot. The Trade War strikes the collaborative relationship between the two countries and dramatically impacts the U.S.'s trade structure. In this project, I am interested in exploring the trade shift between the U.S. and China before and after the Trade War, including the change in exports and imports, trade partners, and categories of goods and services.
