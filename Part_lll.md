@@ -3,6 +3,12 @@
 ## Access to Shorthand webpage 
 <script src="https://carnegiemellon.shorthandstories.com/u-s-china-trade-war-impacts-economies-on-both-sides/embed.js"></script>
 
+## Access to part I and II
+
+[Final Project Part I](/Final_Project_BellaLu_Part_I.md)
+
+[Final Project Part II](/Part_ll.md)
+
 ## Improvements from Part II
 
 Step I: Revision on data visualization based on interviews from part ll. 
