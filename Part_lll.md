@@ -61,5 +61,5 @@ First, I identified my audience as policy students, and I hope my visualization 
 
 While I was doing this project, I gained a thorough understanding of using data visualization to support ideas. In the meantime, I am becoming more confident in my practical skills for visualization data and conveying ideas to the targeted audience.
 
-## References overall
+## References Overall
 
