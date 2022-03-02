@@ -125,3 +125,5 @@ Rutkowski, Emma, John Larsen, and Thilo Hanemann. “Rhodium Group.” Rhodium G
 
 Amadeo, Kimberly. “U.S. Trade Deficit with China and Why It's so High.” The Balance. Accessed March 2, 2022. https://www.thebalance.com/u-s-china-trade-deficit-causes-effects-and-solutions-3306277. 
 
+Amiti, Mary, Stephen J. Redding, and David E. Weinstein. “The Impact of the 2018 Tariffs on Prices and Welfare.” The Journal of Economic Perspectives 33, no. 4 (2019): 187–210. https://www.jstor.org/stable/26796842.
+
