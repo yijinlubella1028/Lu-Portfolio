@@ -24,6 +24,8 @@ Step ll: Revise the data story
 
 2) Add a final section of trade war implications to strengthen the call to action.
 
+Shorthand Link here: 
+
 Step lll: Put draft into shorthand, and furnish it into a presentation.
 
 Step IV: Research for copyright-free images from CMU library 
